@@ -7,3 +7,5 @@ textblob
 wordcloud
 transformers
 torch
+plotly
+
